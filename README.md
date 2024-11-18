@@ -44,7 +44,7 @@ Este é um projeto de uma API RESTful para gerenciamento de tarefas (TodoList), 
 4. **Configure as variáveis de ambiente**:
    Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis:
    ```env
-   JWT_SECRET=<seu_segredo_jwt>
+   JWT_SECRET=seu_segredo_jwt
    DB_HOST=localhost
    DB_PORT=3306
    DB_USERNAME=<seu usuário mysql>
